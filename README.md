@@ -14,6 +14,8 @@ Lombok is an opensource project that reduces boiler plate code in the Java Pojo'
 
 5. [@Data Example](https://github.com/Ravishankarcode/lombok-features/tree/master/lombok-Data)
 
+6. [@Log, @Slf4j and @Log4j2](https://github.com/Ravishankarcode/lombok-features/tree/master/lombok-log)
+
 ## Refrences
 
 Lombok jar is available [here](https://projectlombok.org/download)
